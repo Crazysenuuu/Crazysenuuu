@@ -33,18 +33,6 @@ I'm a software developer and student at ICET (Institute of Computer Engineering 
 
 <br>
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=<username>&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
 
 ### 🌐 Connect
 
