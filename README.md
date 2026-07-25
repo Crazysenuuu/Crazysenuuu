@@ -54,7 +54,7 @@ A SaaS platform for creating and managing AI-powered digital humans with scalabl
 - 🇱🇰 Based in Sri Lanka
 - 🎓 Student at ICET
 - 🧠 Interested in AI, distributed systems, and software architecture
-- ⚡ Built a macOS widget just to check my SIM card balance without opening an app
+
 
 ---
 
