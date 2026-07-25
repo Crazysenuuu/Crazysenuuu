@@ -1,7 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<username>/<username>/main/assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<username>/<username>/main/assets/light.svg">
-  <img alt="Seniru Aluthge banner" src="https://raw.githubusercontent.com/<username>/<username>/main/assets/dark.svg">
+  <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/<username>/<username>/main/assets/dark.svg">
 </picture>
 
 <br>
