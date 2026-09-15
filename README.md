@@ -1,68 +1,87 @@
-# Hi there, I'm Seniru Aluthge 👋
+# Hi, I'm Seniru Aluthge 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+Software developer and student at the **Institute of Computer Engineering Technology (ICET)**, Sri Lanka. I build intelligent software systems — from full-stack web applications to AI-powered digital humans.
 
-**Software Developer & AI Engineer** | Student at the **Institute of Computer Engineering Technology (ICET)**, Sri Lanka.
-
-I design and build intelligent software systems—specializing in agentic AI architectures, scalable distributed backends, and full-stack digital human applications.
+Most of my time goes into agentic AI architectures, scalable backend services, and the occasional hardware + software experiment.
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Current Projects
 
-* **🤖 Aariya** | *Multi-Surface AI Companion*
-  * **Backend:** Cognitive architecture powered by FastAPI featuring long-term memory retrieval and real-time voice streaming.
-  * **Frontend:** Interactive 3D desktop UI (React + Three.js) paired with a native Flutter mobile application.
-  * **Key Focus:** Autonomous reasoning workflows and high-concurrency real-time interaction.
+### 🤖 Aariya
+A multi-surface AI companion:
+- FastAPI cognitive backend
+- React + Three.js desktop interface
+- Flutter mobile application
+- Long-term memory and autonomous reasoning
+- Real-time voice conversation
 
-* **🌐 HUMANA** | *Enterprise Digital Human SaaS*
-  * Cloud-native platform enabling businesses to deploy custom AI-powered interactive avatars to web platforms.
-  * Architected with scalable microservices, low-latency streaming pipelines, and secure multi-tenant infrastructure.
-
----
-
-### 💻 Tech Stack
-
-**Languages & Core**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frameworks & Web**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-**AI Architecture & Data**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-Qdrant/Pinecone-412991?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🌐 HUMANA
+A SaaS platform for creating and managing AI-powered digital humans on business websites, built on scalable cloud infrastructure.
 
 ---
 
-### 🌱 Core Focus Areas
+## 💻 Tech Stack
 
-* **Multi-Agent Systems:** Designing autonomous orchestration loops and task routing.
-* **LLM Infrastructure & Inference:** Optimizing local execution pipeline performance.
-* **Distributed Backends:** Building resilient enterprise architectures in Java/Python.
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks & Runtimes**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+**AI & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+
+**Databases**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity
+## 🌱 Currently Learning
+
+- Multi-agent AI systems
+- LLM infrastructure
+- Distributed backend architecture
+- Digital human technologies
+- High-performance AI inference
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Crazysenuuu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=Crazysenuuu&theme=dark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Crazysenuuu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Seniru's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <i>Always up for discussing multi-agent systems, AI digital humans, open-source tech, or debugging complex Java threads.</i>
+<i>Always happy to chat about AI, software architecture, open-source projects, or tricky Java bugs.</i>
 </p>
