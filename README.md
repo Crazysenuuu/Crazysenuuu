@@ -75,13 +75,6 @@ A SaaS platform for creating and managing AI-powered digital humans on business 
 
 ---
 
-## 📫 Connect
-
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
-
----
-
 <p align="center">
 <i>Always happy to chat about AI, software architecture, open-source projects, or tricky Java bugs.</i>
 </p>
